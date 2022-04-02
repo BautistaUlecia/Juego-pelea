@@ -38,7 +38,7 @@ const player = new Sprite({
   x:0,
   y:0
 },
-velocity: {
+velocity: {asd
   x:0,
   y:0
 }
